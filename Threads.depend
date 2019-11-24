@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572069598 source:/home/eman/Documents/OS/Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
+1572078062 source:/home/eman/Documents/Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
